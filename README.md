@@ -1,4 +1,4 @@
-# Alert-Schema
+# Fermi GBM Schema
 GCN notices are machine-readable packets that are available in different formats, GCN classic over Kafka distributes in JSON format. For each event and instrument specific, different types of notices are available. Each type of notices contain different properties.
 
 ## Kafka notices
