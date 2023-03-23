@@ -1,0 +1,104 @@
+{
+    "$id": "http://example.com/schema",
+    "type": "object",
+    "properties": {
+        "TITLE": {
+            "type": "string"
+        },
+        "NOTICE_DATE": {
+            "type": "string"
+        },
+        "NOTICE_TYPE": {
+            "type": "string"
+        },
+        "SOURCE_OBJ": {
+            "type": "string"
+        },
+        "REF_NUM": {
+            "type": "string"
+        },
+        "RA": {
+            "type": "string"
+        },
+        "DEC": {
+            "type": "string"
+        },
+        "CURR_FLUX": {
+            "type": "string"
+        },
+        "BASE_FLUX": {
+            "type": "string"
+        },
+        "SIGNIFICANCE": {
+            "type": "string"
+        },
+        "TIME_SCALE": {
+            "type": "string"
+        },
+        "ENERGY_BAND": {
+            "type": "string"
+        },
+        "OUTBURST_DATE": {
+            "type": "string"
+        },
+        "OUTBURST_TIME": {
+            "type": "string"
+        },
+        "SOLN_STATUS": {
+            "type": "string"
+        },
+        "LC_URL": {
+            "type": "string"
+        },
+        "SUN_POSTN": {
+            "type": "string"
+        },
+        "SUN_DIST": {
+            "type": "string"
+        },
+        "MOON_POSTN": {
+            "type": "string"
+        },
+        "MOON_DIST": {
+            "type": "string"
+        },
+        "MOON_ILLUM": {
+            "type": "string"
+        },
+        "GAL_COORDS": {
+            "type": "string"
+        },
+        "ECL_COORDS": {
+            "type": "string"
+        },
+        "COMMENTS": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "BASE_FLUX",
+        "COMMENTS",
+        "CURR_FLUX",
+        "DEC",
+        "ECL_COORDS",
+        "ENERGY_BAND",
+        "GAL_COORDS",
+        "LC_URL",
+        "MOON_DIST",
+        "MOON_ILLUM",
+        "MOON_POSTN",
+        "NOTICE_DATE",
+        "NOTICE_TYPE",
+        "OUTBURST_DATE",
+        "OUTBURST_TIME",
+        "RA",
+        "REF_NUM",
+        "SIGNIFICANCE",
+        "SOLN_STATUS",
+        "SOURCE_OBJ",
+        "SUN_DIST",
+        "SUN_POSTN",
+        "TIME_SCALE",
+        "TITLE"
+    ]
+}
