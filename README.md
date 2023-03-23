@@ -12,7 +12,7 @@ In this example, Fermi-LAT GCN notice is used as a text file, then schema and ex
 > Fermi LAT GCN notice contains the following information.
 
  Properties | Type | Value
- --------------- | ----------- |
+ --------------- | ----------- |-------------------
  `TITLE` | string | `GCN/FERMI NOTICE`
  `NOTICE_DATE` | string | `Thu 23 Feb 23 15:49:32 UT`
  `NOTICE_TYPE` | string | `Fermi-LAT Monitor`
