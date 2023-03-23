@@ -9,7 +9,7 @@ In this example, Fermi-LAT GCN notice is used as a text file, then schema and ex
 * Validate the schema example against the JSON schema using Draft7Validator
 
 ## Kafka notices
-> Fermi LAT GCN notice contains the following information.
+> Typical Fermi LAT GCN notice contains the following information:
 
  Properties | Type | Value
  --------------- | ----------- |-------------------
